@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color:cornsilk;
+}
+
+div {
+    display: block;
+}
+
+#quote {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.bio--column {
+    width: 40%;
+    height: 100%;
+    float: left;
+    padding-left: 25px;
+}
+
+#headshot {
+    padding-left: 250px;
+}
+
+body ul {
+    list-style-type: none;
+}
+
+#quickhits {
+    text-align: center;
+    text-decoration: underline;
+}
